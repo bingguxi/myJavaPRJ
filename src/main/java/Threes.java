@@ -10,6 +10,8 @@ public class Threes {
 
         if (a % 3 == 0) {
             System.out.printf("3의 배수입니다.");
+        } else {
+            System.out.printf("3의 배수가 아닙니다.");
         }
     }
 }
