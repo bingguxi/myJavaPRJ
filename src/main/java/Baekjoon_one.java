@@ -11,9 +11,9 @@ public class Baekjoon_one {
         System.out.printf("두번째 값을 입력하세요 : ");
         b = s.nextInt();
 
-        System.out.printf("%d\n", a*(b%10));
-        System.out.printf("%d\n", a*((b%100)/10));
-        System.out.printf("%d\n", a*((b%1000)/100));
-        System.out.printf("%d\n", a*b);
+        System.out.printf("%d\n", a * (b % 10));
+        System.out.printf("%d\n", a * ((b % 100) / 10));
+        System.out.printf("%d\n", a * ((b % 1000) / 100));
+        System.out.printf("%d\n", a * b);
     }
 }
