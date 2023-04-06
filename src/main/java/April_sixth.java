@@ -14,6 +14,6 @@ public class April_sixth {
         System.out.printf("세번째 값을 입력하세요 : ");
         C = s.nextInt();
 
-        System.out.printf("%d", A + B + C);
+        System.out.printf("세 값의 합은 %d 입니다", A + B + C);
     }
 }
