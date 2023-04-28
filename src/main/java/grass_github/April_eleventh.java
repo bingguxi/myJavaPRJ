@@ -1,3 +1,5 @@
+package grass_github;
+
 import java.util.Scanner;
 
 public class April_eleventh {  // 반에서 나보다 키가 큰 사람의 수를 구하는 함수
