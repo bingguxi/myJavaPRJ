@@ -1,6 +1,8 @@
+package grass_github;
+
 import java.util.Scanner;
 
-public class Baekjoon_two {
+public class April_fourth {
     public static void main(String[] args) {
         int a, b;
         Scanner s = new Scanner(System.in);
