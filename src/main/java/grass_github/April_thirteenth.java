@@ -1,3 +1,5 @@
+package grass_github;
+
 import java.util.Scanner;
 
 public class April_thirteenth { // 학생 30명 중 과제를 제출하지 않은 2명의 출석번호를 구하는 문제
