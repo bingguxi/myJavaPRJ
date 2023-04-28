@@ -1,3 +1,5 @@
+package quiz;
+
 public class Java_quiztwo {
     public static void main(String[] args) {
 

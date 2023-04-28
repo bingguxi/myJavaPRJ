@@ -1,3 +1,5 @@
+package quiz;
+
 import java.util.Scanner;
 public class Quiz_two {
     public static void main(String[] args) {

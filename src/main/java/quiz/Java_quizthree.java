@@ -1,3 +1,5 @@
+package quiz;
+
 public class Java_quizthree {
     public static void main(String[] args) {
         int i, j;
