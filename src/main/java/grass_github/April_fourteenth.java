@@ -1,3 +1,5 @@
+package grass_github;
+
 import java.util.Scanner;
 
 public class April_fourteenth { // 입력할 숫자의 개수와 숫자를 입력받아 최솟값과 최댓값을 출력하는 문제
