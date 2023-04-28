@@ -1,3 +1,5 @@
+package grass_github;
+
 import java.util.Scanner;
 
 public class April_seventh {
